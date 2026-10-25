@@ -1,0 +1,21 @@
+# Node.js dependencies and build output
+node_modules/
+frontend/node_modules/
+frontend/dist/
+
+# Python virtual environments, caches, and logs
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+backend/events.log
+
+# Local environment files and generated credentials
+.env
+.env.*
+!.env.example
+*.key
+*.crt
+
+# Downloaded MediaMTX executable
+mediamtx/mediamtx.exe

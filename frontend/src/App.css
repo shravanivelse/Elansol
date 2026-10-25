@@ -1,0 +1,9 @@
+body { font-family: system-ui, sans-serif; margin: 0; background: #f3f4f6; color: #111827; }
+.page { max-width: 1200px; margin: 0 auto; padding: 24px; }
+.layout { display: grid; grid-template-columns: 2fr 1fr; gap: 16px; align-items: start; }
+section { background: #fff; border-radius: 8px; padding: 16px; margin-bottom: 16px; }
+h2 { margin: 0 0 8px; font-size: 14px; color: #6b7280; text-transform: uppercase; }
+.total { font-size: 48px; font-weight: 700; }
+.video { width: 100%; height: auto; border-radius: 6px; background: #000; display: block; }
+table { width: 100%; border-collapse: collapse; font-size: 14px; }
+th, td { text-align: left; padding: 6px 8px; border-bottom: 1px solid #e5e7eb; }

@@ -1,0 +1,5 @@
+rtspAddress: :8554
+
+paths:
+  traffic:
+    source: publisher
